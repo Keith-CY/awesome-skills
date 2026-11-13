@@ -468,6 +468,7 @@ Detailed description of the skill's purpose.
 | [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin and npm package for X (Twitter) search, tweet and reply posting, DMs, media, monitoring, webhooks, and MCP tools |
 | [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Website screenshots, full-page captures, PDFs and scrolling videos via the CurlShot API or hosted MCP |
 | [solidping-monitoring](https://github.com/fclairamb/solidping-plugin/tree/main/skills/solidping-monitoring) | Uptime checks across 40+ types, incidents, failure diagnosis and status pages via the hosted SolidPing MCP server |
+| [datacircle](https://datacircle.dev/SKILL.md) | Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website, with a free open API at [api.datacircle.dev/v1](https://api.datacircle.dev/v1) |
 
 ### Web Performance & SEO
 
